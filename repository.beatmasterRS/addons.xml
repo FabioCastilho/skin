@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="repository.skin" name="BETA repository" provider-name="beatmasterRS" version="0.0.1">
+	
+	<extension name="BeatmasterRS BETA repository" point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/FabioCastilho/skin/master/addons.xml</info>
+		<checksum> no </checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.beatmasterRS/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Kodi repository for beta/test versions of Marcelveldt's addons</summary>
+		<description lang="en">Kodi repository for beta/test versions of Marcelveldt's addons, for stable versions please just use the official Kodi repository. This repo is for test/beta versions of my work only</description>
+		<platform>all</platform>
+	</extension>
+</addon>
