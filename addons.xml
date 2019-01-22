@@ -4,7 +4,7 @@
 	<extension name="BeatmasterRS BETA repository" point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/FabioCastilho/skin/master/addons.xml</info>
 		<checksum> no </checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/beatmasterRS/skin.arctic.zephyr.mod/archive/master.zip</datadir>
 	</extension>
 
       
