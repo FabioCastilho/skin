@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="repository.skin" name="BETA repository" provider-name="beatmasterRS" version="0.0.1">
+	
+	<extension name="BeatmasterRS BETA repository" point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/FabioCastilho/skin/master/addons.xml</info>
+		<checksum> no </checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+	</extension>
+
+      
+</addon><addon id="skin.arctic.zephyr.mod" name="BETA for Kodi Leia" provider-name="BeatmasterRS" version="0.0.4">
+
+</addon></addons>
